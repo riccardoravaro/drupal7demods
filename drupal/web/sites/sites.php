@@ -55,4 +55,6 @@
  */
 
 
-$sites['80.drupal7demo.riccardoravaro.com'] = 'demo';
+$sites['80.drupal7.riccardoravaro.com'] = 'demo';
+$sites['drupal7.riccardoravaro.com'] = 'demo';
+
